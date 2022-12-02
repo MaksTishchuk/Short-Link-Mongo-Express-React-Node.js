@@ -1,0 +1,6 @@
+{
+  "PORT": 5000,
+  "mongoURI": "your MongoDB link",
+  "jwtSecret": "fullstack mern",
+  "baseUrl": "http://localhost:5000"
+}
